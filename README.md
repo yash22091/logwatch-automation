@@ -120,7 +120,7 @@ MIT License
 ## Maintained By
 
 - Author: Yash Patel
-- Blog: [Medium Post](https://medium.com/your-logwatch-automation-guide)
+- Blog: [Medium Post](https://medium.com/@yashpateld22d/boost-linux-server-security-with-automated-logwatch-reports-pdf-email-setup-guide-ac44871aea92)
 
 ---
 
