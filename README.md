@@ -18,7 +18,7 @@ This repository contains a shell script that automates and enhances **Logwatch**
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/logwatch-automation.git
+git clone https://github.com/yash22091/logwatch-automation.git
 cd logwatch-automation
 ```
 
